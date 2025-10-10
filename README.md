@@ -27,9 +27,7 @@ How to Run the Project Locally
 
 1. Clone the repository:
 
-git clone 
-
-2. Open the project in a code editor (ex:VsCode)
+git clone https://github.com/SuleymanParlan/PnpAdminPanel
 
 3. Navigate into the project folder in your device:
 
@@ -37,10 +35,10 @@ cd admin-panel/xxx
 
 4. Install dependencies:
 
-run on terminal: npm install
+First run on terminal: npm install --> Make sure you run npm install first; the node_modules folder is not included in GitHub.
 
 
-Start the development server:
+To Start the development server:
 
 run on terminal: npm start
 
@@ -52,11 +50,11 @@ Build for Production
 
 Notes
 
-Make sure you run npm install first; the node_modules folder is not included in GitHub.
+***Make sure you run npm install first; the node_modules folder is not included in GitHub.***
 
-The "start" script uses Vite to serve the project locally.
+***The "start" script uses Vite to serve the project locally.***
 
-Author
+
 
 Süleyman Parlan
 Email: parlansulo2@gmail.com
